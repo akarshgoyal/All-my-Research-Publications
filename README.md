@@ -4,4 +4,4 @@ Please visit my LinkedIn Page to see all my publications and the links to the va
 The linkedin page is -  https://in.linkedin.com/in/akarsh-goyal-95999b102
 
 
-These research papers are indexed in Scopus and Thomson Reuters.
+These research papers are indexed in Scopus and Thomson Reuters. Some of them are published in IEEE, Springer and ACM.
